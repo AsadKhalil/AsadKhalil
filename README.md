@@ -1,7 +1,6 @@
 <a href="https://github.com/AsadKhalil/" class="no-underline Link--primary">Asad Khalil</a><span class="color-text-tertiary d-inline-block" style="padding:0px 2px;">/
 </span>README<span class="color-text-tertiary">.md</span>
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><p><a href="https://github.com/AsadKhalil">
-<img alt="views" title="Github views" src="https://camo.githubusercontent.com/eddba43df08f4f3da4192de01caa513b1263dd970e121ec0680f0841853b4e52/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d68617269736d756e656572267374796c653d666c61742d737175617265" width="125" data-canonical-src="https://komarev.com/ghpvc/?username=AsadKhalil&amp;style=flat-square" style="max-width:100%;">
 </a>
  
 
